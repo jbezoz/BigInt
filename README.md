@@ -1,2 +1,2 @@
 # BigInt
- Operations likes +,-,* with large integers beyond 64-bit
+Arithmetic Operations with large signed integers beyond 64-bit representation
